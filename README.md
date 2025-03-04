@@ -56,6 +56,15 @@ This is the first place that heat set inserts are required.  One thing the Voron
 
 #### Heat Set Inserts
 
-Working with the Voron2 2.4R2 Build Guide dated February 12 2022, the following pages have heat set inserts to install:
+Working with the Voron2 2.4R2 Build Guide dated 2023-07-04, the following pages have heat set inserts to install:
 
-31, 
+31, 64, 84, 129, 156, 201, 211, 212, 213, 250.
+
+The Stealth Burner has a separate manual, so when I get to that point, I will come back and cover where heat set inserts go in that as well.
+
+### Belt Drive Assembly
+Page 32 starts setting up the bed drive assembly.  It is mentioned here to ensure you use thread locker on the pulley's set screws.  The LDO kits come with set screws with thread locker already on them, but the Fysetc does not.  It is up to you to apply thread locker.  As the manual says, this is the root of all issues.
+
+Pulleys and bearings are in zipper close bags, however they are not labeled, so you may have to do some measuring to make sure you are using the correct items.
+
+
