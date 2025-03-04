@@ -70,3 +70,6 @@ Pulleys and bearings are in zipper close bags, however they are not labeled, so 
 #### Z Idlers
 While this isn't specifically an issue with the Fysetc kit, I'm not the biggest fan of the stock Z Idlers.  That is going on the list as one of the first things I will upgrade to the [Clee BZI](https://github.com/clee/VoronBFI) setup.  I will likely change out to the BFI as well like I did on my LDO V2.4 and Trident.
 
+# Heated Bed
+At first glance this is an area that is a massive with for the LDO kit over Fysetc.  With the LDO kit the heater and magnetic bed surface come pre-attached.  Attaching these items isn't the worst thing, but just nice thing to have already done for me.  However, the LDO bed heater is 750 watts while the Fysetc kit is 1000 watts.  This should help to get the bed up to temperatures faster.
+
