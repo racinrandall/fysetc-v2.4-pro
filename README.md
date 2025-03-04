@@ -81,3 +81,25 @@ Hopefully this will not transition through the magnetic sheet into the overall f
 
 ![magnet](images/magnet.png)
 
+The magnetic sheet also does not have cutouts for the mounting bolts.  This would require installing the magnetic sheet AFTER the bed is bolted in place.  This isn't a problem per-say, but if you ever need to remove the bed for any reason, this would make that more difficult.  I *think* I am going to attempt to cut access holes in the magnetic sheet before installing it to the bed.
+
+Well, here is the modified and installed magnet.  
+
+![modified magnet](images/modified_magnet.png)
+
+To modify the magnet, I placed it face down on the workbench with the bed on top of it.  Then using a small scribe I marked the center of each hole.  Then using a [body reamer](https://www.avidrc.com/product/5/accessories/3606/Body-Reamer-014mm-AV10094-accessories.html) for RC cars, I opened the hole until it was big enough to fit the head of a M3 SHCS through it.  I then went to the other side of the magnet and used the reamer there as well to make sure there were no burrs to catch.
+
+Before installing the magnet or the heater, make sure you completely clean both sides of the bed as it will still have residue from machining.
+
+![clean the bed](images/dirty.png)
+
+I went over each side of the bed 3-4 times with IPA and paper towels.  This is important if you want your magnet and especially the heater to stay firmly attached.
+
+The heater appears to be universal between V2.4 and Trident, however the bed is V2.4 only.  Make sure you align the wires from the heater with the side that has the extra screw holes that are for mounting a ground wire and the thermal fuse.
+
+![heater](images/heater.png)
+
+![thermal ground](images/therman_ground.png)
+
+The last item for the bed appears to be some insulation.  LDO kits do not come with this insulation, so that is nice to have here.  But some people like to install bed fans to use the wasted heat from the bottom of the bed heater and circulate that air to help warm the chamber.  I think I'm going to install the insulation as I want my bed  to warm up quickly as a bed this big can take a while to get warm.  I will not install this insulation until after the thermal fuse and ground wires are attached to the bed, as it covers those mounting points.  It also does not have cutouts for where the bed mounts, so I will likely use a similar procedure to how I modified the bed magnet.
+
