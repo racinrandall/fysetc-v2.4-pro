@@ -73,3 +73,11 @@ While this isn't specifically an issue with the Fysetc kit, I'm not the biggest 
 # Heated Bed
 At first glance this is an area that is a massive with for the LDO kit over Fysetc.  With the LDO kit the heater and magnetic bed surface come pre-attached.  Attaching these items isn't the worst thing, but just nice thing to have already done for me.  However, the LDO bed heater is 750 watts while the Fysetc kit is 1000 watts.  This should help to get the bed up to temperatures faster.
 
+Upon unwrapping the bed, I noticed that the machine marks are very noticeable and I can even feel them when I run my fingers across it.
+
+![bed](images/bed.png)
+
+Hopefully this will not transition through the magnetic sheet into the overall flatness of the bed surface.  Speaking of the magnetic bed surface, it looks WAY too much like a PEI sheet itself, and I think there will be the potential for me forgetting to put a build plate on and trying to print directly on the magnet.
+
+![magnet](images/magnet.png)
+
