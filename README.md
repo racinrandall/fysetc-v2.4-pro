@@ -103,3 +103,16 @@ The heater appears to be universal between V2.4 and Trident, however the bed is 
 
 The last item for the bed appears to be some insulation.  LDO kits do not come with this insulation, so that is nice to have here.  But some people like to install bed fans to use the wasted heat from the bottom of the bed heater and circulate that air to help warm the chamber.  I think I'm going to install the insulation as I want my bed  to warm up quickly as a bed this big can take a while to get warm.  I will not install this insulation until after the thermal fuse and ground wires are attached to the bed, as it covers those mounting points.  It also does not have cutouts for where the bed mounts, so I will likely use a similar procedure to how I modified the bed magnet.
 
+Looking through the repo that Fysetc provides for this printer, and while there are no build guides outside the 2 year old one from Voron, there are a couple of PDFs related to wiring.  Those documents do not show anything related to a ground wire attaching to the bed like the Voron manual does.
+
+I found this one ground wire in the kit:
+
+![ground wire](images/ground_wire.png)
+
+It has open ends, and I prefer a loop to connect on the bed.  Also, I'm not sure if it is covered in the Voron manual, but the LDO supplements do mention grounding the frame of the printer along with the bed.  I will use this one to ground the frame, and I created my own to ground the bed.
+
+**MAKE SURE YOU GROUND THE BED!!**
+
+I used scissors to cut access in the bed insulation so the mounts will have room.
+
+![blanket](images/blanket.png)
