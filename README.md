@@ -120,3 +120,5 @@ I used scissors to cut access in the bed insulation so the mounts will have room
 # Gantry
 For the most part, the gantry assembly went exactly as the Voron documents outline.  However as I got to installing the AB belts, I realized that the Fysetc repo did not have the STLs for the tool head carriage mount to the X rail.
 
+As I wrote above, I realized how stupid I am sometimes.  The Fysetc kit comes with a CNC Tap kit.  There aren't any good instructions that I have found, but I did find this [video](https://www.youtube.com/watch?v=G74QdxHLoy8) that covers the installation of the Voron Tap CNC kit.
+
