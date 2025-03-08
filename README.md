@@ -116,3 +116,7 @@ It has open ends, and I prefer a loop to connect on the bed.  Also, I'm not sure
 I used scissors to cut access in the bed insulation so the mounts will have room.
 
 ![blanket](images/blanket.png)
+
+# Gantry
+For the most part, the gantry assembly went exactly as the Voron documents outline.  However as I got to installing the AB belts, I realized that the Fysetc repo did not have the STLs for the tool head carriage mount to the X rail.
+
